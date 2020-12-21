@@ -10,6 +10,9 @@ use Illuminate\Support\Facades\Validator;
 
 class FrontendController extends Controller
 {
+    public function __construct(){
+        $this->middleware('Lang');
+    }
 
     public function index()
     {
@@ -68,6 +71,7 @@ class FrontendController extends Controller
 
     private function getmassages()
     {
+        //App::setLocale(Session::get('lang'));
         //get the error massage's from according to the curent local lang
         $file = 'trans';
         return $massage = [
