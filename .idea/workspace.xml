@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce7202a-9bac-41ae-9602-506cc7913e90" name="Default Changelist" comment="Clone Marsol App Project Prepartion">
+      <change afterPath="$PROJECT_DIR$/resources/views/front/layout/slider.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/14f165b9c759ea00571adcdce004cf948497d64d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/1f492635746d6b103a40beac3f565d28e2c947af.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/219fbaf11ac9fcc9e608779a149eea5d0e2b7c50.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/25aaebf24f72c2867015171f5a49c6ce047277e0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/2a8bafb092e32c3644fb20e19c3692ee7db29803.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/338249fbf27a7de0608994a42339eee2ceab6f99.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/420edb203fb1ae87e7f6d0b6bfd2929ba28da2c7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/467ad9fbc88d35cd1baf1ccf9f7652ab54765b27.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/48efe212a291a3c0ed662211c886d0a512316154.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/5264c253eacd13304320f813b2840a7f3536fa17.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/5bbf05fd64090d44c55735f8e3890ee44233f5ce.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/5e87af39c04caad9fff0b8f1bd1c9a68d6014e32.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/668be6edd38b901c3a1a97513f2098213bd4310e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/6c3babe306a81c558242df1eca7f2ee6aa536db1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/6cde291c2818545ffecb402d99abd773ebe23d9d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/72001f1ea716b873adb0a40e8be3a1baa3f9c4ec.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/871cd9dac14e6a3e5c837597f04a5a432335245a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/9867e1951abc1ef97c2eac373c6dd949ba0c02f5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/ad1355a991504a7de3a5b43956443ca2a64a9c8a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/b16b7e2f6ace26deaf9c6d5181a3d197cd8bfc5a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/e8fc2b581483f53cedaa40a027432a0d3d94d886.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/e909b53a6e8cbc26a0dde47fdce6b5adf5c68b8b.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/f508a59ac295e0727c2f3ecfb04a887dc72415e3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/fb795b73bcb43700f62d4258835b97804bf21131.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1leYbFuAcjFUDi151jZjvCraaAY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gardentaxi_v2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Frontend" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+      <recent name="$PROJECT_DIR$/resources/views/front/parts/index_prats" />
+      <recent name="$PROJECT_DIR$/resources/views/front/parts" />
+      <recent name="$PROJECT_DIR$/resources/views/front/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce7202a-9bac-41ae-9602-506cc7913e90" name="Default Changelist" comment="Clone Marsol App Project Prepartion" />
+      <created>1607959093944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607959093944</updated>
+      <workItem from="1607959100022" duration="1208000" />
+      <workItem from="1608027401568" duration="3218000" />
+      <workItem from="1608126126094" duration="1294000" />
+      <workItem from="1608164139289" duration="1467000" />
+      <workItem from="1608190556784" duration="6099000" />
+      <workItem from="1608258402418" duration="1195000" />
+      <workItem from="1608290160216" duration="4229000" />
+      <workItem from="1608374872483" duration="783000" />
+      <workItem from="1608376528357" duration="6631000" />
+      <workItem from="1608423554971" duration="6291000" />
+      <workItem from="1608460365254" duration="2905000" />
+      <workItem from="1608494976267" duration="515000" />
+      <workItem from="1608509615294" duration="3736000" />
+      <workItem from="1608544890479" duration="2306000" />
+      <workItem from="1608595349422" duration="4489000" />
+      <workItem from="1608630502850" duration="5557000" />
+      <workItem from="1608685606871" duration="856000" />
+      <workItem from="1608720111706" duration="647000" />
+    </task>
+    <task id="LOCAL-00001" summary="Clone Marsol App Project Prepartion">
+      <created>1608336830842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608336830842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Clone Marsol App Project Prepartion">
+      <created>1608375653097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608375653098</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added New Method's">
+      <created>1608495033415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608495033415</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added New Method's">
+      <created>1608495489283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608495489283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Middleware To Check To Local Lang">
+      <created>1608545004581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608545004581</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Regstier System">
+      <created>1608686450860</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608686450860</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clone Marsol App Project Prepartion" />
+    <MESSAGE value="Added New Method's" />
+    <MESSAGE value="Added Middleware To Check To Local Lang" />
+    <MESSAGE value="Added Regstier System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Regstier System" />
+  </component>
+</project>
