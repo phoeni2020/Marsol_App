@@ -3,6 +3,8 @@
 namespace App\Http\Controllers\Frontend;
 
 use App\Http\Controllers\Controller;
+use App\Models\User;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Session;
@@ -92,6 +94,14 @@ class FrontendController extends Controller
             'phone' => 'required',
             'massage' => 'required|max:250',
         ];
+    }
+
+    public function getdata(){
+        Carbon::useMonthsOverflow(false);
+        $data =User::where('next_payment','=',Carbon::today()->addDays(31))->get();
+        dd($data);
+        $date = Carbon::create();
+
     }
 
 
